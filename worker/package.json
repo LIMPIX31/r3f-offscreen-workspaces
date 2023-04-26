@@ -1,0 +1,11 @@
+{
+  "name": "worker",
+  "main": "src/worker.tsx",
+  "dependencies": {
+    "@react-three/fiber": "^8.12.2",
+    "@react-three/offscreen": "^0.0.5",
+    "react": "18",
+    "react-dom": "18",
+    "three": "^0.151.3"
+  }
+}
